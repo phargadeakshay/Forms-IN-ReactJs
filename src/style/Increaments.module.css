@@ -1,0 +1,24 @@
+.body1 {
+  display: flex;
+  justify-content: center;
+}
+.main .btn {
+  display: flex;
+  gap: 20px;
+  padding: 12px 24px;
+  margin: 10px;
+  font-size: 44px;
+}
+h1 {
+  color: red;
+}
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: rgb(165, 47, 120);
+}
+button {
+  padding: 12px 20px;
+  margin: 20px;
+}
